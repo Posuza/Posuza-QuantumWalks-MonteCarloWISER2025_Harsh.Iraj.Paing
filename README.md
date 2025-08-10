@@ -1,6 +1,6 @@
 # Quantum Walks and Monte Carlo Methods
 
-## Overview
+## Overview1
 
 This repository contains the work of the Womain Quantum Wisner student group for the Wiser 2025 project. Developed by Harshi, Iraj, and Paing, the project focuses on the implementation and analysis of Quantum Walks and Monte Carlo methods. The core objective is to reproduce and analyze a foundational research paper, providing a structured, step-by-step approach to quantum simulation and analysis.
 
