@@ -57,6 +57,9 @@ Open the notebook `projectNotebook.ipynb` and run the cells sequentially to:
 - Visualize results and compare to theoretical distributions
 - Explore the effects of noise and perform quantitative analysis
 
+## Team Name 
+- PHI
+
 ## Team Members
 
 - Harshita Singh (gst-A6ux9GiZo5nbA5Z)
