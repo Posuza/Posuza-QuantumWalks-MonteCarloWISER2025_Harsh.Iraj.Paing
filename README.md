@@ -1,0 +1,2 @@
+# Posuza-QuantumWalks-MonteCarloWISER2025_Harsh.Iraj.Paing
+This project is delicate by Womain Quantum Wisner student group (Harshi, Iraj, and Paing) for wiser 2025, focuses on implementing and analyzing Quantum Walks and Monte Carlo methods. The repository includes code for simulating these algorithms, comparing their performance, and documenting of findings on applications and theoretical underpinnings.
