@@ -45,8 +45,8 @@ Additionally, install Qiskit community packages:
 
 ## Project Structure
 
-- `QW_MC.ipynb`: Jupyter Notebook containing the main implementation, including code for quantum walks, noise models, simulation, and visualization.
-- `Documentation.pdf`: Document outlining the project plan, goals, and methodological breakdown.
+- `.ipynb`: Jupyter Notebook containing the main implementation, including code for quantum walks, noise models, simulation, and visualization.
+- `QCB.pdf`: Document outlining the project plan, goals, and methodological breakdown.
 
 ## Usage
 
