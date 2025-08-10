@@ -59,9 +59,9 @@ Open the notebook `QW_MC.ipynb` and run the cells sequentially to:
 
 ## Team Members
 
-- Harshita Singh
-- Iraj Masood
-- Paing Hein Thet Mon
+- Harshita Singh (gst-A6ux9GiZo5nbA5Z)
+- Iraj Masood (gst-tHnNCjvD4D3MYIq)
+- Paing Hein Thet Mon (gst-1NbmRq1FlKUA6d7)
 
 ## Reference Article
 
