@@ -45,12 +45,12 @@ Additionally, install Qiskit community packages:
 
 ## Project Structure
 
-- `.ipynb`: Jupyter Notebook containing the main implementation, including code for quantum walks, noise models, simulation, and visualization.
+- `projectNotebook.ipynb`: Jupyter Notebook containing the main implementation, including code for quantum walks, noise models, simulation, and visualization.
 - `QCB.pdf`: Document outlining the project plan, goals, and methodological breakdown.
 
 ## Usage
 
-Open the notebook `QW_MC.ipynb` and run the cells sequentially to:
+Open the notebook `projectNotebook.ipynb` and run the cells sequentially to:
 
 - Build and simulate quantum Galton board circuits
 - Analyze quantum walks and Monte Carlo methods
